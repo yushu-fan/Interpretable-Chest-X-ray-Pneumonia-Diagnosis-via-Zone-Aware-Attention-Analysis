@@ -1,0 +1,318 @@
+TY  - RPRT
+AU  - Rajpurkar, Pranav
+AU  - Irvin, Jeremy
+AU  - Zhu, Kaylie
+AU  - Mehta, Brandon
+AU  - Duan, Tony
+AU  - Bagul, Aarti
+AU  - Langlotz, Curtis
+AU  - Shpanskaya, Katie
+AU  - Lungren, Matthew P.
+TI  - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+PY  - 2017
+UR  - https://arxiv.org/abs/1711.05225
+DO  - 10.48550/arXiv.1711.05225
+ER  -
+
+TY  - JOUR
+AU  - Kermany, Daniel S.
+AU  - Goldbaum, Michael
+AU  - Cai, Wenjia
+AU  - Valentim, Carolina C. S.
+AU  - Liang, Huiying
+AU  - Baxter, Sally L.
+AU  - Liu, Jimeng
+AU  - Nie, Dong
+TI  - Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning
+PY  - 2018
+JO  - Cell
+VL  - 172
+IS  - 5
+SP  - 1122
+EP  - 1131
+DO  - 10.1016/j.cell.2018.02.010
+ER  -
+
+TY  - JOUR
+AU  - Stephen, Okeke
+AU  - Sain, Malka
+AU  - Maduh, Ugochukwu J.
+AU  - Jeong, Du-Seong
+TI  - An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare
+PY  - 2019
+JO  - Journal of Healthcare Engineering
+VL  - 2019
+DO  - 10.1155/2019/4180949
+ER  -
+
+TY  - CONF
+AU  - Selvaraju, Ramprasaath R.
+AU  - Cogswell, Michael
+AU  - Das, Abhishek
+AU  - Vedantam, Ramakrishna
+AU  - Parikh, Devi
+AU  - Batra, Dhruv
+TI  - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+PY  - 2017
+JO  - Proceedings of the IEEE International Conference on Computer Vision (ICCV)
+SP  - 618
+EP  - 626
+DO  - 10.1109/ICCV.2017.74
+ER  -
+
+TY  - CONF
+AU  - Chattopadhyay, Aditya
+AU  - Sarkar, Anirban
+AU  - Howlader, Prantik
+AU  - Balasubramanian, Vineeth N.
+TI  - Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks
+PY  - 2018
+JO  - IEEE Winter Conference on Applications of Computer Vision (WACV)
+SP  - 839
+EP  - 847
+DO  - 10.1109/WACV.2018.00097
+ER  -
+
+TY  - CONF
+AU  - He, Kaiming
+AU  - Zhang, Xiangyu
+AU  - Ren, Shaoqing
+AU  - Sun, Jian
+TI  - Deep Residual Learning for Image Recognition
+PY  - 2016
+JO  - Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 770
+EP  - 778
+DO  - 10.1109/CVPR.2016.90
+ER  -
+
+TY  - CONF
+AU  - Huang, Gao
+AU  - Liu, Zhuang
+AU  - Van Der Maaten, Laurens
+AU  - Weinberger, Kilian Q.
+TI  - Densely Connected Convolutional Networks
+PY  - 2017
+JO  - Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 4700
+EP  - 4708
+DO  - 10.1109/CVPR.2017.243
+ER  -
+
+TY  - CONF
+AU  - Woo, Sanghyun
+AU  - Park, Jongchan
+AU  - Lee, Joon-Young
+AU  - Kweon, In So
+TI  - CBAM: Convolutional Block Attention Module
+PY  - 2018
+JO  - Proceedings of the European Conference on Computer Vision (ECCV)
+SP  - 3
+EP  - 19
+DO  - 10.1007/978-3-030-01234-2_1
+ER  -
+
+TY  - CONF
+AU  - Lin, Tsung-Yi
+AU  - Goyal, Priya
+AU  - Girshick, Ross
+AU  - He, Kaiming
+AU  - Dollár, Piotr
+TI  - Focal Loss for Dense Object Detection
+PY  - 2017
+JO  - Proceedings of the IEEE International Conference on Computer Vision (ICCV)
+SP  - 2999
+EP  - 3007
+DO  - 10.1109/ICCV.2017.324
+ER  -
+
+TY  - RPRT
+AU  - Zhang, Hongyi
+AU  - Cisse, Moustapha
+AU  - Dauphin, Yann N.
+AU  - Lopez-Paz, David
+TI  - mixup: Beyond Empirical Risk Minimization
+PY  - 2018
+UR  - https://arxiv.org/abs/1710.09412
+DO  - 10.48550/arXiv.1710.09412
+ER  -
+
+TY  - CONF
+AU  - Yun, Sangdoo
+AU  - Han, Dongyoon
+AU  - Oh, Seong Joon
+AU  - Chun, Sanghyuk
+AU  - Choe, Junsuk
+AU  - Yoo, Youngjoon
+TI  - CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features
+PY  - 2019
+JO  - Proceedings of the IEEE International Conference on Computer Vision (ICCV)
+SP  - 6023
+EP  - 6032
+DO  - 10.1109/ICCV.2019.00606
+ER  -
+
+TY  - JOUR
+AU  - Litjens, Geert
+AU  - Kooi, Thijs
+AU  - Bejnordi, Babak Ehteshami
+AU  - Setio, Arnaud A. A.
+AU  - Ciompi, Francesco
+AU  - Ghafoorian, Mohsen
+AU  - van der Laak, Jeroen A. W. M.
+AU  - van Ginneken, Bram
+AU  - Sánchez, Clara I.
+TI  - A Survey on Deep Learning in Medical Image Analysis
+PY  - 2017
+JO  - Medical Image Analysis
+VL  - 42
+SP  - 60
+EP  - 88
+DO  - 10.1016/j.media.2017.07.005
+ER  -
+
+TY  - JOUR
+AU  - Wang, Hao
+AU  - Jia, Hui
+AU  - Li, Yue
+AU  - Omote, Kazutaka
+AU  - Emoto, Makoto
+TI  - Deep Learning for Pneumonia Detection: A Review
+PY  - 2021
+JO  - IEEE Access
+VL  - 9
+SP  - 125105
+EP  - 125124
+DO  - 10.1109/ACCESS.2021.3112153
+ER  -
+
+TY  - JOUR
+AU  - Powers, David M. W.
+TI  - Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness and Correlation
+PY  - 2011
+JO  - Journal of Machine Learning Technologies
+VL  - 2
+IS  - 1
+SP  - 37
+EP  - 63
+DO  - 10.48550/arXiv.2010.16061
+ER  -
+
+TY  - JOUR
+AU  - Saranyaraj, D.
+AU  - Shrinaath, V.
+AU  - Nayak, A.
+AU  - Vishal, R.
+TI  - PneuNet: a lightweight convolutional neural network with multiscale feature fusion for automated pneumonia detection from chest X-rays
+PY  - 2026
+JO  - Frontiers in Medicine
+VL  - 12
+DO  - 10.3389/fmed.2025.1713587
+ER  -
+
+TY  - JOUR
+AU  - Chodagam, Yaswanth
+AU  - Hiremath, Mallikarjun
+TI  - Pneumonia classification from chest X-rays using significant feature selection and machine learning
+PY  - 2026
+JO  - IAES International Journal of Artificial Intelligence (IJAI)
+VL  - 15
+IS  - 1
+SP  - 592
+EP  - 603
+DO  - 10.11591/ijai.v15.i1.pp592-603
+ER  -
+
+TY  - JOUR
+AU  - Aldabayan, Yahya S.
+TI  - Pneumonia and pneumothorax detection: A multi-factor evaluation of chest X-rays
+PY  - 2026
+JO  - PLOS ONE
+VL  - 21
+IS  - 1
+DO  - 10.1371/journal.pone.0341060
+ER  -
+
+TY  - JOUR
+AU  - Shan, Xiaoyan
+AU  - Yang, Jing
+TI  - Multi-scale nested graph transformer with graph operations: An efficient solution for high-resolution CXR classification
+PY  - 2025
+JO  - Medical Physics
+VL  - 52
+IS  - 3
+DO  - 10.1002/mp.70003
+ER  -
+
+TY  - JOUR
+AU  - Zahin, Israt Ara
+AU  - Ahsan, Md. Fazle
+AU  - Orni, Raju Ahmed
+AU  - Hossain, Alfaz
+AU  - Tabassum, Maherin
+AU  - Zishan, Mohammad Abdul O.
+AU  - Noor, Jannatul
+TI  - Enhancing lung diseases recognition through CNN-RNN methodologies
+PY  - 2026
+JO  - Scientific Reports
+VL  - 16
+DO  - 10.1038/s41598-026-45842-1
+ER  -
+
+TY  - JOUR
+AU  - Dahan, Fayadh
+AU  - Shah, Jamiu H.
+AU  - Afzal, Muhammad
+AU  - Aloqaily, Moayad
+AU  - Almohamedh, Raed
+AU  - Alfakih, Tarik M.
+TI  - Zone-Aware Pneumonia Classification Using Automated Lung Region Detection and Multi-Branch Feature Learning
+PY  - 2026
+JO  - International Journal of Computational Intelligence Systems
+VL  - 19
+DO  - 10.1007/s44196-026-01208-z
+ER  -
+
+TY  - JOUR
+AU  - Li, Tianhang
+AU  - Li, Bo
+TI  - Dual-branch attention fusion network for pneumonia detection
+PY  - 2025
+JO  - Biomedical Physics & Engineering Express
+VL  - 11
+IS  - 5
+DO  - 10.1088/2057-1976/adebf5
+ER  -
+
+TY  - JOUR
+AU  - Xie, Yu
+AU  - Zhu, Bo
+AU  - Jiang, Yuezhe
+AU  - Zhao, Bo
+AU  - Yu, Hao
+TI  - Diagnosis of pneumonia from chest X-ray images using YOLO deep learning
+PY  - 2025
+JO  - Frontiers in Neurorobotics
+VL  - 19
+DO  - 10.3389/fnbot.2025.1576438
+ER  -
+
+TY  - JOUR
+AU  - Chiang, Li-Fang
+TI  - An Interpretable Chest X-ray Classification Framework Using Prototype Memory and Counterfactual Consistency
+PY  - 2026
+JO  - Cureus
+VL  - 18
+IS  - 2
+DO  - 10.7759/cureus.103134
+ER  -
+
+TY  - RPRT
+AU  - Dong, Hao
+AU  - Lin, Yaxuan
+AU  - Zhou, Peng
+TI  - CXR-LT 2026 Challenge: Multi-Center Long-Tailed and Zero Shot Chest X-ray Classification
+PY  - 2026
+UR  - https://arxiv.org/abs/2604.15555
+DO  - 10.48550/arXiv.2604.15555
+ER  -
