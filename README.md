@@ -87,9 +87,3 @@ Chest X-ray images from public datasets (e.g., NIH ChestX-ray14, RSNA Pneumonia 
 来自公开数据集的胸部X光图像（如 NIH ChestX-ray14、RSNA Pneumonia Detection）。
 
 ---
-
-## Contact / Контакты / 联系方式
-
-- **Author / Автор / 作者**: Fan Yushu (Фань Юшу)
-- **Affiliation / Место учёбы / 所属机构**: Lomonosov MSU, CMC Faculty, VMK Department
-- **GitHub**: [yushu-fan](https://github.com/yushu-fan)
