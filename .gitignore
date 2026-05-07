@@ -1,0 +1,9 @@
+data/
+experiment/
+plan&report/
+__pycache__/
+*.pyc
+*.tmp
+*.pth
+*.h5
+*.ckpt
